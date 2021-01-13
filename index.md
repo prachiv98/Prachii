@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to Our Blog
 
-You can use the [editor on GitHub](https://github.com/prachiv98/kinsley.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Founded in 2021, Kinsley was the brainchild of Prachi. Once written from her bedroom in Chandigarh, it's fair to say things have changed a little around here. Fast forward 10 years and Zoella is now run by Zoe and her team out of an office in Brighton, England.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
